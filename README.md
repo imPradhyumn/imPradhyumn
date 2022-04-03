@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hey 👋, I am Pradhyumn</br>Σ(Creativity, Teamwork, Learner)</h2>
+  <h2>Hey 👋, I am Pradhyumn</br>Σ(Creativity, Teamwork, Adaptability)</h2>
  
   <h3>A passionate Software Engineer</h3> </div>
   <div>
