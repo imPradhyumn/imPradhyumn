@@ -38,4 +38,7 @@
  <a href="https://linkedin.com/in/i-am-Pradhyumn/" target="_blank">  <img src="https://i.postimg.cc/WDpfHMQd/kindpng-3632986.png"  width="5%" height="6%"/></a>
   </div>
   <hr></hr>
+  <h3 align="center">Life's like a code, you gonna face lots of errors,</br>either to turn-off or continue debugging, choice is yours :)</h3>
+  <hr></hr>
+  
   
