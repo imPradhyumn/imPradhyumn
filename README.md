@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hey 👋, I am Pradhyumn</br>Σ(Creativity, Teamwork, Learner)</h2>
  
-  <h4>A passionate Software Engineer</h4> </div>
+  <h3>A passionate Software Engineer</h3> </div>
   <div>
   <ul>
   <li>‍💻 Currently working in Capgemini</li>
