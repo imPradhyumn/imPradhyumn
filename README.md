@@ -4,6 +4,7 @@
   <h3>A passionate Software Engineer</h3> </div>
   <div>
   <ul>
+     <li>☕ I turn coffee to code</li>
   <li>‍💻 Currently working in Capgemini</li>
   <li>🏊 Wish 2 dive deep into the field of ML (Need a mentor 4 the same)</li>
   <li>🥺 Kind && Loyal && Weird && Funny</li>
