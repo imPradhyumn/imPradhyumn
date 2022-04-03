@@ -24,7 +24,7 @@
   <hr></hr>
   <strong>Connect with me :</strong></br></br>
   <div>
-   <a href="instagram.com/notorious_proton" target="_blank"><img src="https://i.postimg.cc/zX1S5BhH/Glossy-Instagram-logo-PNG.png"  width="5%" height="5%"/></a>
+   <a href="https://instagram.com/notorious_proton" target="_blank"><img src="https://i.postimg.cc/zX1S5BhH/Glossy-Instagram-logo-PNG.png"  width="5%" height="5%"/></a>
   &nbsp;&nbsp;&nbsp;
     <a href="instagram.com/notorious_proton" target="_blank"><img src="https://i.postimg.cc/xjmyWHXS/Glossy-facebook-logo-png.png"  width="5%" height="5%"/></a>
   &nbsp;&nbsp;&nbsp;
