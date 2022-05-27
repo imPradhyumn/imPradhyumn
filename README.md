@@ -1,19 +1,17 @@
 <div align="center">
-  <h2>Hey <img href="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif"/>, I am Pradhyumn</br>Σ(Creativity, Teamwork, Adaptability)</h2>
+  <h2>Hey 👋, I am Pradhyumn</br>Σ(Creativity, Teamwork, Adaptability)</h2>
  
   <h3>A passionate Software Engineer</h3> </div>
   <div>
   <ul>
      <li>☕ I turn coffee to code</li>
   <li>‍💻 Currently working in Capgemini</li>
-  <li>🏊 Python and ML enthusiast</li>
-    <li>💬 Open to connect and contribute towards ML</li>
+  <li>🏊 Wish 2 dive deep into the field of ML (Need a mentor 4 the same)</li>
   <li>🥺 Kind && Loyal && Weird && Funny</li>
   <li>😌 I'm the kind of guy you can take your home to meet your mom</li>
     <li>👨‍💻 Leetcode : <a href="https://leetcode.com/heavyProgrammer">heavyProgrammer()</a></li>
   </ul>
   </div>
-
 <hr></hr>
 <div>
   <strong> Technological tools : </strong>
@@ -39,7 +37,8 @@
  <a href="https://linkedin.com/in/i-am-Pradhyumn/" target="_blank">  <img src="https://i.postimg.cc/WDpfHMQd/kindpng-3632986.png"  width="5%" height="6%"/></a>
   </div>
   <hr></hr>
-  <h3 align="center">Life's like a code, you gonna face lots of errors,</br>either to give-up or continue debugging, choice is yours :)</h3>
+  <h3 align="center">Life's like a code, you gonna face lots of errors,</br>either to turn-off or continue debugging, choice is yours :)</h3>
+ 
   <hr></hr>
   
   
