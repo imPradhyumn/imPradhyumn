@@ -6,8 +6,9 @@
   <ul>
      <li>☕ I turn coffee to code</li>
   <li>‍💻 Currently working in Capgemini</li>
-  <li>🏊 Wish 2 dive deep into the field of ML (Need a mentor 4 the same)</li>
-  <li>🥺 Kind && Loyal && Weird && Funny</li>
+  <li>🏊 Python and ML enthusiast</li>
+  <li>💬 Open to connect</li>
+     <li>🥺 Kind && Loyal && Funny</li>
   <li>😌 I'm the kind of guy you can take your home to meet your mom</li>
     <li>👨‍💻 Leetcode : <a href="https://leetcode.com/heavyProgrammer">heavyProgrammer()</a></li>
   </ul>
