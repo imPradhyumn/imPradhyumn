@@ -8,8 +8,6 @@
   <li>‍💻 Currently in Capgemini</li>
   <li>🏊 Python and ML enthusiast</li>
   <li>💬 Open to connect</li>
- 
-    <li>👨‍💻 Leetcode : <a href="https://leetcode.com/heavyProgrammer">heavyProgrammer()</a></li>
   </ul>
   </div>
 <hr></hr>
