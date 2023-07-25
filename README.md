@@ -5,7 +5,7 @@
   <div>
   <ul>
      <li>☕ I turn coffee to code</li>
-  <li>‍💻 Currently in Capgemini</li>
+  <li>‍💻 Always keen to learn</li>
   <li>🏊 Python and ML enthusiast</li>
   <li>💬 Open to connect</li>
   </ul>
