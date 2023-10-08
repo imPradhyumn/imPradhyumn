@@ -4,8 +4,8 @@
   <h3>A passionate Software Engineer</h3> </div>
   <div>
   <ul>
-     <li>☕ I turn coffee to code</li>
-  <li>‍💻 Always keen to learn</li>
+     <li>☕ I love coding, like how a fat kid loves chocolates</li>
+  <li>‍💻Kkeen to learn</li>
   <li>🏊 Python and ML enthusiast</li>
   <li>💬 Open to connect</li>
   </ul>
@@ -32,7 +32,7 @@
   &nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/imPradhyumn/" target="_blank"><img src="https://i.postimg.cc/xjmyWHXS/Glossy-facebook-logo-png.png"  width="5%" height="5%"/></a>
   &nbsp;&nbsp;&nbsp;
- <a href="https://linkedin.com/in/i-am-Pradhyumn/" target="_blank">  <img src="https://i.postimg.cc/WDpfHMQd/kindpng-3632986.png"  width="5%" height="6%"/></a>
+ <a href="https://linkedin.com/in/im-pradhyumn/" target="_blank">  <img src="https://i.postimg.cc/WDpfHMQd/kindpng-3632986.png"  width="5%" height="6%"/></a>
   </div>
   <hr></hr>
   <h3 align="center">Life's like a code, you gonna face lots of errors,</br>either to turn-off or continue debugging, choice is yours :)</h3>
