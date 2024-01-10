@@ -6,7 +6,7 @@
   <ul>
      <li>☕ I love coding, like how a fat kid loves chocolates</li>
   <li>‍💻 Keen to Learn, Polish & Apply </li>
-  <li>🏊 Python and ML enthusiast</li>
+  <li>🏊 Fullstack Developer </li>
   <li>💬 Open to connect</li>
   </ul>
   </div>
